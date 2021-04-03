@@ -1,3 +1,4 @@
+# Mock Data for training purposes
 # Skills
 
 # Education
@@ -11,3 +12,7 @@
 # Development
 - skill: Git and GitHub
   description: Taking courses on LinkedIn Learning
+
+  # Development
+  - skill: Git and GitHub
+   description: Taking courses on LinkedIn Learning
